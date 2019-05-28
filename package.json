@@ -1,0 +1,10 @@
+{
+  "name": "kappa-test",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "kappa-core": "~3.0.1",
+    "kappa-view-level": "~2.0.0",
+    "level": "~5.0.1"
+  }
+}
